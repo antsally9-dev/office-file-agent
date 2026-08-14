@@ -2,6 +2,8 @@
 
 一个用于练习 Agent 工具调用、同时可以完成移动办公最小闭环的项目。输入普通文本和简单表格，输出可编辑的 Word `.docx`。
 
+在线试用：[https://antsally9-dev.github.io/office-file-agent/](https://antsally9-dev.github.io/office-file-agent/)
+
 ## 当前能力
 
 - 自动识别文档标题和三级中文/Markdown 标题；
