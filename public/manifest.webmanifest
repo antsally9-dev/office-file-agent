@@ -1,0 +1,25 @@
+{
+  "name": "文成 · 文本生成 Word",
+  "short_name": "文成",
+  "description": "识别文本结构和简单表格，在当前设备生成可编辑 Word 文档。",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f9fc",
+  "theme_color": "#f7f9fc",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

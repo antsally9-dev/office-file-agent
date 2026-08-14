@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="文成">
+  <rect width="512" height="512" rx="72" fill="#f7f9fc"/>
+  <path d="M126 92h196l64 64v264H126z" fill="#fff" stroke="#233047" stroke-width="20"/>
+  <path d="M322 92v72h64" fill="none" stroke="#233047" stroke-width="20" stroke-linejoin="round"/>
+  <path d="M178 222h156M178 278h156M178 334h100" fill="none" stroke="#2359c4" stroke-width="22" stroke-linecap="square"/>
+</svg>

@@ -1,0 +1,9 @@
+{
+  "date": "2026-08-12",
+  "fontStack": "none",
+  "palette": "none",
+  "motion": "motion-cut",
+  "spacing": "none",
+  "framework": "TypeScript core; Vite vanilla UI introduced",
+  "preserved": ["src/core", "src/agent", "test", "DOCX templates"]
+}
